@@ -14,7 +14,7 @@ describe("Add operator", () => {
 
   test("adds 4 + 5 to equal 9", () => {
     let result = calc.add(4, 5);
-    expect(result).toBe(9);
+    expect(result).toBe(22);
   });
 });
 
